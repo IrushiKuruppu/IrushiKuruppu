@@ -21,7 +21,7 @@
   </em>
 </p>
 
-### 🛠 Skills
+### 🛠 Skills...
 <em>
 <b>Programming & Development</b></br>
 Languages: C#, PHP, Python, JavaScript, SQL, R</br>
@@ -34,6 +34,18 @@ Technologies: Python, SQL, R</br>
 Visualization: Tableau, Power BI, Excel</br>
 Statistics: Hypothesis testing, Regression, Data Modeling</br></br>
 </em>
+
+### 💡 What I'm Learning...
+<p>
+  <em>
+    I'm sharpening my skills in data analysis to turn insights into impact:</br>
+    SQL | Python | R | Tableau | Power BI | Excel | Statistics</br>
+  </em>
+</p>
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 
 
 ### 📫 How to reach me?
@@ -53,17 +65,3 @@ Statistics: Hypothesis testing, Regression, Data Modeling</br></br>
 
 ##
 
-<!--
-**IrushiKuruppu/IrushiKuruppu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
