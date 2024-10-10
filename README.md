@@ -1,4 +1,5 @@
-## Irushi Nathasha Kuruppu – Software Engineer | Data Science Enthusiast  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Hi I am Irushi Nathasha Kuruppu <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+###  Software Engineer | Data Science Enthusiast  
 
 <!--
 **IrushiKuruppu/IrushiKuruppu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
