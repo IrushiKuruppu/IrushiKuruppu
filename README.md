@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p>
   <em>
-    <b>Master’s in Computational Social Science .<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></b></br>
+    <b>Master’s in Computational Social Science .<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Light%20Skin%20Tone.png" alt="Woman Student Light Skin Tone" width="50" height="50" /></b></br>
       Linköping University, Sweden | In Progress</br></br>
     <b> Bachelor of Software Engineering</b></br>
      Cardiff Metropolitan University | Completed </br>
@@ -11,11 +11,11 @@
 </p>
 <p>
   <em>
-    <b>Software Enginner at Thaprobana Innovations <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></b></br>
+    <b>Software Enginner at Thaprobana Innovations <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="50" height="50" /></b></br>
     - Developed mobile applications with Flutter and handled web development using C#, PHP, and Laravel.</br>
     - Utilized MySQL and SQL Server for database management and REST APIs for backend services.</br>
     - Version control and collaboration via Git and Bitbucket.</br> </br>
-   <b>Associate Software Engineer at Paragon Software Lanka <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></b></br>
+   <b>Associate Software Engineer at Paragon Software Lanka </b></br>
     - Focused on backend development with C# and SQL Server, and integrated REST APIs.</br>
     - Worked with ASP.NET Framework, HTML/CSS, and JavaScript for web development.</br> </br>
   </em>
