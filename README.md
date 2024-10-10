@@ -2,15 +2,38 @@
 ###  Software Engineer | Data Science Enthusiast  
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p>
-  <em><b>Software Enginner at Thaprobana Innovations <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></b></br>
+  <em>
+    <b>Master’s in Computational Social Science .<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></b></br>
+      Linköping University, Sweden | In Progress</br></br>
+    <b> Bachelor of Software Engineering</b></br>
+     Cardiff Metropolitan University | Completed </br>
+  </em>
+</p>
+<p>
+  <em>
+    <b>Software Enginner at Thaprobana Innovations <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></b></br>
     - Developed mobile applications with Flutter and handled web development using C#, PHP, and Laravel.</br>
     - Utilized MySQL and SQL Server for database management and REST APIs for backend services.</br>
     - Version control and collaboration via Git and Bitbucket.</br> </br>
    <b>Associate Software Engineer at Paragon Software Lanka <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></b></br>
     - Focused on backend development with C# and SQL Server, and integrated REST APIs.</br>
-    - Worked with ASP.NET Framework, HTML/CSS, and JavaScript for web development.</br>
+    - Worked with ASP.NET Framework, HTML/CSS, and JavaScript for web development.</br> </br>
   </em>
 </p>
+
+### 🛠 Skills
+<em>
+<b>Programming & Development</b></br>
+Languages: C#, PHP, Python, JavaScript, SQL, R</br>
+Frameworks: ASP.NET, Laravel, Flutter</br>
+Databases: SQL Server, MySQL</br>
+Tools: Git, Bitbucket, Visual Studio, REST APIs</br></br>
+  
+<b>Data Analysis</b></br>
+Technologies: Python, SQL, R</br>
+Visualization: Tableau, Power BI, Excel</br>
+Statistics: Hypothesis testing, Regression, Data Modeling</br></br>
+</em>
 
 
 ### 📫 How to reach me?
