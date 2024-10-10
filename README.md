@@ -1,4 +1,4 @@
-## Hi there 👋
+## Irushi Nathasha Kuruppu – Software Engineer | Data Science Enthusiast 👋
 
 <!--
 **IrushiKuruppu/IrushiKuruppu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
