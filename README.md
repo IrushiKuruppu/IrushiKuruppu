@@ -11,7 +11,7 @@
 </p>
 <p>
   <em>
-    <b>Software Enginner at Thaprobana Innovations <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="50" height="50" /></b></br>
+    <b> Co-Founder / Software Enginner at Thaprobana Innovations <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="50" height="50" /></b></br>
     - Developed mobile applications with Flutter and handled web development using C#, PHP, and Laravel.</br>
     - Utilized MySQL and SQL Server for database management and REST APIs for backend services.</br>
     - Version control and collaboration via Git and Bitbucket.</br> </br>
